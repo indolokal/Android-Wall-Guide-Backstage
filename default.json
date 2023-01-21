@@ -1,0 +1,44 @@
+package com.app.bloggernewsappdemo;
+
+import com.app.bloggernewsappdemo.utils.Constant;
+
+public class Config {
+
+    //please check the documentation for the guide to generate your access key
+    public static final String ACCESS_KEY = "WVVoU01HTklUVFpNZVRsNllqSjRkbHBJU25aaFYxRjFZbTFXTUV3eVVteGlWemgyV1cxNGRsb3laR3hqYkRsMVdsaGtlbGd5Um5kalF6bHFZakkxYldGWFkzVmhiazUyWW13NWFHTklRbk5oVjA1b1pFZHNkbUpyYkd0WU1rNTJZbE0xYUdOSVFYVlpiWGgyV2pKa2JHTnROV3hrTTA1b1kwaENhMXBYTVhZPQ==";
+
+    //"published": Order by the date the post was published
+    //"updated": Order by the date the post was last updated
+    public static final String DISPLAY_POST_ORDER = "published";
+
+    //if it's true the first image in the post details will be the main image
+    public static final boolean FIRST_POST_IMAGE_AS_MAIN_IMAGE = true;
+
+    //show post list with line divider
+    public static final boolean DISPLAY_POST_LIST_DIVIDER = false;
+
+    //label sorting, supported value : Constant.LABEL_NAME_ASCENDING, Constant.LABEL_NAME_DESCENDING or Constant.LABEL_DEFAULT
+    public static final String LABELS_SORTING = Constant.LABEL_NAME_ASCENDING;
+
+    //category columns count, supported value : Constant.GRID_3_COLUMNS or Constant.GRID_2_COLUMNS
+    public static final int CATEGORY_COLUMN_COUNT = Constant.GRID_3_COLUMNS;
+
+    //category layout style, supported value : Constant.GRID_SMALL or Constant.GRID_MEDIUM
+    public static final String CATEGORY_LAYOUT_STYLE = Constant.GRID_SMALL;
+
+    //category image style, supported value : Constant.CIRCULAR or Constant.ROUNDED
+    public static final String CATEGORY_IMAGE_STYLE = Constant.CIRCULAR;
+
+    //enable copy text in the story content
+    public static final boolean ENABLE_TEXT_SELECTION = false;
+
+    //RTL direction, e.g : for Arabic Language
+    public static final boolean ENABLE_RTL_MODE = false;
+
+    //GDPR EU Consent
+    public static final boolean LEGACY_GDPR = false;
+
+    //delay splash when remote config finish loading in millisecond
+    public static final int DELAY_SPLASH = 10;
+
+}
