@@ -1,2 +1,2 @@
-# blogspot
-blogspot github app
+# Blogspot
+Blogspot Github App
