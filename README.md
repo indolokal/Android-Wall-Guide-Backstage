@@ -1,2 +1,2 @@
-# solodroid
-solodroid github app
+# blogspot
+blogspot github app
