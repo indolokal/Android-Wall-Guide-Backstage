@@ -1,0 +1,101 @@
+{
+	"blog": {
+		"blogger_id": "12345678910",
+		"api_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"app": {
+		"status": "1",
+		"display_wallpaper_name": "true",
+		"center_crop_wallpaper": "true",
+		"featured_labels": "Android,Google,Stock,Live,Anime,Samsung",
+		"custom_label_list": "false",
+		"privacy_policy_url": "https://sites.google.com/view/blogger-wallpaperx-privacy",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"redirect_url": ""
+	},
+	"notification": {
+		"fcm_notification_topic": "blogger_wallpaperx_topic",
+		"onesignal_app_id": "0855da51-0ba7-45dc-b790-000000000"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"ad_manager_banner_unit_id": "/6499/example/banner",
+		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+		"ad_manager_native_unit_id": "/6499/example/native",
+		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
+		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"ironsource_app_key": "85460dcd",
+		"ironsource_banner_id": "DefaultBanner",
+		"ironsource_interstitial_id": "DefaultInterstitial",
+		"interstitial_ad_interval": 3,
+		"native_ad_index": 3
+	},
+	"labels": [
+		{
+			"term": "Motorola",
+			"image": "https://i.ibb.co/GM4qXTY/cat-motorola.jpg"
+		},
+		{
+			"term": "Samsung",
+			"image": "https://i.ibb.co/2jffX7h/cat-samsung.jpg"
+		},
+		{
+			"term": "Oppo",
+			"image": "https://i.ibb.co/Tmt0bg2/cat-oppo.jpg"
+		},
+		{
+			"term": "Android",
+			"image": "https://i.ibb.co/VMZtJLr/cat-android.jpg"
+		},
+		{
+			"term": "Anime",
+			"image": "https://i.ibb.co/GQd8MmJ/cat-anime.jpg"
+		},
+		{
+			"term": "Google",
+			"image": "https://i.ibb.co/2PzrRyc/cat-google.jpg"
+		},
+		{
+			"term": "Iphone",
+			"image": "https://i.ibb.co/mhBT0RS/cat-iphone.jpg"
+		},
+		{
+			"term": "Stock",
+			"image": "https://i.ibb.co/kD1xMCR/cat-stock.jpg"
+		},
+		{
+			"term": "Halloween",
+			"image": "https://i.ibb.co/nf4rWSR/cat-halloween.jpg"
+		},
+		{
+			"term": "Live",
+			"image": "https://i.ibb.co/zNwz4Rj/cat-live.jpg"
+		},
+		{
+			"term": "OnePlus",
+			"image": "https://i.ibb.co/935qn2x/cat-oneplus.jpg"
+		},
+		{
+			"term": "Sony",
+			"image": "https://i.ibb.co/kgChxn3/cat-sony.jpg"
+		}
+	]
+}
